@@ -42,8 +42,9 @@ CONSTANT_LOCAL_FILE_NAME \
  #  Subroutine Name:  InsertJSONFileIntoMongoDBCollection
  #
  #  Subroutine Description:
- #      This subroutine reads the data from a JSON file and populates a MongoDB collection
- #      with the information.
+ #      This subroutine reads the data from a JSON file and populates a MongoDB 
+ #      collection with the information.  It also converts the date and time text
+ #      string in the 'RatingDate' fields to a date text string.
  #
  #
  #  Subroutine Parameters:

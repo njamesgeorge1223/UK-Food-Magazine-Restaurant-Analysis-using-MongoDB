@@ -13,7 +13,7 @@
  #      for completing common tasks in the evaluation of restaurant ratings data.  
  #      Here is the list:
  #
- #      InsertJSONFileIntoMongoDBCollection
+ #      ReturnReorderedColumnsNoSQLDataFrame
  #
  #
  #  Date            Description                             Programmer
