@@ -9,7 +9,7 @@
  #  File Name:  NoSQLSetupSubRoutines.py
  #
  #  File Description:
- #      This Python script, NoSQLSetupFunctions.py, contains generic Python functions
+ #      This Python script, NoSQLSetupFunctions.py, contains generic Python subroutines
  #      for completing common tasks in the evaluation of restaurant ratings data.  
  #      Here is the list:
  #
@@ -62,6 +62,8 @@ CONSTANT_LOCAL_FILE_NAME \
  #  Date                Description                                 Programmer
  #  ---------------     ------------------------------------        ------------------
  #  9/18/2023           Initial Development                         N. James George
+ #  9/20/2023           Added conversion of 'RatingDate' to date String
+ #                                                                  N. James George
  #
  #******************************************************************************************/
 
@@ -73,25 +75,32 @@ def InsertJSONFileIntoMongoDBCollection \
 
         with open(filePathString) as jsonFile:
     
-            jsonDataList \
+            jsonDataObject \
                 = json \
                     .load \
                         (jsonFile)
 
-            jsonFile \
-                .close()
-
-        if isinstance(jsonDataList, list):
+        
+            for jsonDictionary in jsonDataObject:
+                
+                jsonDictionary \
+                    ['RatingDate'] \
+                        = jsonDictionary \
+                            ['RatingDate'] \
+                            [0:10]
+            
+        
+        if isinstance(jsonDataObject, list):
             
             pyMongoCollectionObject \
                 .insert_many \
-                    (jsonDataList)
+                    (jsonDataObject)
             
         else:
             
             pyMongoCollectionObject \
                 .insert_one \
-                    (jsonDataList)
+                    (jsonDataObject)
             
     except:
         
