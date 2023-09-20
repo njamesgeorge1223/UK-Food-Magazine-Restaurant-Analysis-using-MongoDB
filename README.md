@@ -5,7 +5,7 @@
 
 In this Challenge, I've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate ratings data to help determine where to focus future articles; the data comes from the UK Food Standards Agency, which evaluates various establishments across the United Kingdom. 
 
-Due to a request from the magazine's editors, I make some modifications to the data imported into a MongoDB database such as adding information for an exciting new halal restaurant in Greenwich, "Penang Flavours".  The magazine is not interested in any establishments in Dover, so I remove any establishments within the Dover Local Authority from the database, and check the number of documents to ensure they were deleted.  Some of the values in each MongoDB document such as latitude, longitude, and rating value are text when they should be numbers; to facilitate future inquiry, I appropriately change these data types.
+Due to a request from the magazine's editors, I make some modifications to the data imported into a MongoDB database such as adding information for an exciting new halal restaurant in Greenwich, "Penang Flavours".  The magazine is not interested in any establishments in Dover, so I remove any establishments within the Dover Local Authority from the database and check the number of documents to ensure they are not present.  Some of the values in each MongoDB document such as latitude, longitude, and rating value are text when they should be numbers; to facilitate future inquiry, I appropriately change these data types.
 
 For the analysis, I use my knowledge of Python, PyMongo, and MongoDB to answer specific questions posed by the management and staff of Eat Safe, Love.  Here are the questions and their query results.
 
