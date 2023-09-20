@@ -10,7 +10,7 @@ Due to a request from the magazine's editors, I make some modifications to the d
 For the analysis, I use my knowledge of Python, PyMongo, and MongoDB to answer specific questions posed by the management and staff of Eat Safe, Love.  Here are the questions and their query results.
 
 1. Which establishments have a hygiene score equal to 20 (the worst possible rating)?
-<img width="881" alt="NoSQLQuery1" src="https://github.com/njgeorge000158/nosql-challenge/assets/137228821/8b734621-4c4e-44b4-8106-270d406b49e3">
+<img width="1105" alt="NoSQLQuery1_1" src="https://github.com/njgeorge000158/nosql-challenge/assets/137228821/2f17fa6b-5c2b-475e-9d37-fe5cee7d2473">
 
 2. Which establishments in London have a high rating value greater than or equal to 4 (1-5)?
 
