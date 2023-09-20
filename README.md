@@ -13,7 +13,10 @@ For the analysis, I use my knowledge of Python, PyMongo, and MongoDB to answer s
 <img width="1105" alt="NoSQLQuery1_1" src="https://github.com/njgeorge000158/nosql-challenge/assets/137228821/2f17fa6b-5c2b-475e-9d37-fe5cee7d2473">
 
 2. Which establishments in London have a high rating value greater than or equal to 4 (1-5)?
+<img width="1107" alt="NoSQLQuery2_1" src="https://github.com/njgeorge000158/nosql-challenge/assets/137228821/c4c154d3-7985-40ac-bd29-07afa43e0e8b">
 
 3. What are the top 5 establishments with a rating value of 5, sorted by best hygiene score, nearest to the new restaurant added, "Penang Flavours?
+<img width="1104" alt="NoSQLQuery3_1" src="https://github.com/njgeorge000158/nosql-challenge/assets/137228821/4e5d520e-dada-46c3-ad2c-2a379f618ab2">
 
 4. How many establishments in each Local Authority area have a hygiene score of 0 (the best possible rating)? Sort the number of establishments from highest to lowest, and print out the top ten local authority areas.
+<img width="1107" alt="NoSQLQuery4" src="https://github.com/njgeorge000158/nosql-challenge/assets/137228821/e5df9c89-b73a-48a6-856c-3b2ba3c09f5b">
