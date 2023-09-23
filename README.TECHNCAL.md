@@ -2,6 +2,8 @@ The IPython notebooks, NoSQLSetup.ipynb and NoSQLAnalysis.ipynb, require the fol
 
 NoSQLSetupSubRoutines.py
 
+NoSQLAnalysisFunctions.py
+
 PyConstants.py
 
 PyFunctions.py
