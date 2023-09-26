@@ -1,4 +1,4 @@
-This folder includes the log and debug files for the IPython notebooks, NoSQLAnalysis.ipynb and NoSQLSetup.ipynb.
+This folder includes the log and debug files for the IPython notebooks, NoSQLAnalysis.ipynb and NoSQLSetup.ipynb: the IPython Notebooks generate these files in Debug and Log modes, respectively (see README.TECHNICAL.md).
 
 ----
 
