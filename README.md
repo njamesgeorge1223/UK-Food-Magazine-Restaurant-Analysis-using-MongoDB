@@ -22,3 +22,9 @@ For the analysis, I use my knowledge of Python, PyMongo, and MongoDB to answer s
 <img width="1107" alt="NoSQLQuery4" src="https://github.com/njgeorge000158/nosql-challenge/assets/137228821/e5df9c89-b73a-48a6-856c-3b2ba3c09f5b">
 
 From the analysis, there are a number of insightful conclusions.  The locations with the worst hygiene scores are on or near the coastline outside of London. There is a concentration of highly rated restaurants inside the city of London proper. Greenwich is the location with establishments scoring highest in both value and hygiene; for hygiene alone, Thanet is the best location.
+
+----
+
+### Copyright
+
+N. James George © 2023. All Rights Reserved.
