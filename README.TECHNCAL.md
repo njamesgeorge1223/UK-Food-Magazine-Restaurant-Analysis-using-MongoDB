@@ -26,7 +26,7 @@ python3 -m pip install dataframe-image
 
 python3 -m pip install pymongo
 
-https://www.mongodb.com/docs/v6.0/tutorial/install-mongodb-on-os-x/
+https://www.mongodb.com/docs/v6.0/tutorial/install-mongodb-on-os-x/ \
 https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/
 
 ----
