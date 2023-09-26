@@ -1,4 +1,4 @@
-This folder holds the images of plots made in the IPython notebooks, NoSQLSetup.ipynb and NoSQLAnalysis.ipynb.
+This folder holds the images of tables and plots displayed in the IPython notebooks, NoSQLSetup.ipynb and NoSQLAnalysis.ipynb.
 
 ----
 
