@@ -1,4 +1,4 @@
-This folder holds the file, establishments.json, which is the input file for the IPython notebook, NoSQLSetup.ipynb.
+This folder includes the file, establishments.json, which is the input file for the IPython notebook, NoSQLSetup.ipynb.
 
 ----
 
