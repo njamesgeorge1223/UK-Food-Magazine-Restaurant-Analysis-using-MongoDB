@@ -1,0 +1,34 @@
+
+Timepoint: 09/30/2023 23:30:30
+Program execution begins...
+
+
+
+
+MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+
+
+
+Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'uk_food')
+
+
+
+Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'uk_food'), 'establishments')
+
+
+Timepoint: 09/30/2023 23:30:50
+Program execution begins...
+
+
+
+
+MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+
+
+
+Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'uk_food')
+
+
+
+Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'uk_food'), 'establishments')
+
