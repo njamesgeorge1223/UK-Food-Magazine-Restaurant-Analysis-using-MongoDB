@@ -1,0 +1,51 @@
+
+Timepoint: 10/01/2023 17:36:45
+Program execution begins...
+
+
+
+
+MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+
+
+
+Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'uk_food')
+
+
+
+Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'uk_food'), 'establishments')
+
+
+Timepoint: 10/01/2023 17:38:08
+Program execution begins...
+
+
+
+
+MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+
+
+
+Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'uk_food')
+
+
+
+Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'uk_food'), 'establishments')
+
+
+Timepoint: 10/01/2023 17:39:53
+Program execution begins...
+
+
+
+
+MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+
+
+
+Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'uk_food')
+
+
+
+Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'uk_food'), 'establishments')
+

@@ -1,0 +1,243 @@
+
+Timepoint: 10/01/2023 17:36:45
+Program execution begins...
+
+
+
+Timepoint: 10/01/2023 17:36:46
+[1mHere is a List of the current MongoDB Databases:
+[0m['admin', 'config', 'epa', 'fruits_db', 'local', 'met', 'petsitly_marketing', 'uk_food']
+
+
+Timepoint: 10/01/2023 17:36:46
+[1m
+The MongoDB Database, 'uk_food', is in the List of MongoDB Databases.[0m
+
+
+Timepoint: 10/01/2023 17:36:46
+[1mHere is a List of the current Collections in the MongoDB Database, uk_food:
+[0m['establishments']
+
+
+Timepoint: 10/01/2023 17:36:46
+[1m
+The Collection, 'establishments', is in the MongoDB Database, 'uk_food'.[0m
+
+
+Timepoint: 10/01/2023 17:36:46
+[1mThere are 39,779 documents in the Collection, establishments.[0m
+
+
+Timepoint: 10/01/2023 17:36:46
+[1mThere is 1 document for the restaurant, Penang Flavors, in the Collection, establishments.[0m
+
+
+Timepoint: 10/01/2023 17:36:46
+[1mIn the Penang Flavours's document, the 'BusinessTypeID' is of type, <class 'int'>, and has a value of 1.[0m
+
+
+Timepoint: 10/01/2023 17:36:46
+[1mThere are 994 documents with 'Dover' as their local authority name.[0m
+
+
+Timepoint: 10/01/2023 17:36:47
+[1mAfter the deletion, there are now 0 documents with 'Dover' as their local authority name.[0m
+
+
+Timepoint: 10/01/2023 17:36:47
+[1mAfter the deletion, there are now 38,786 documents in the Collection, establishments.[0m
+
+
+Timepoint: 10/01/2023 17:36:49
+['0', 'Awaiting Inspection', 'AwaitingInspection', 'AwaitingPublication', 'Exempt', 'Pass']
+
+
+Timepoint: 10/01/2023 17:36:50
+[1mThere are 0 documents in the collection, establishments, where the 'latitude' field is NOT data type, 'double'.[0m
+
+
+Timepoint: 10/01/2023 17:36:50
+[1mThe data type for the 'latitude' field of a random document is <class 'float'>.[0m
+
+
+Timepoint: 10/01/2023 17:36:50
+[1mThere are 0 documents in the collection, establishments, where the 'longitude' field is NOT data type, 'double'.[0m
+
+
+Timepoint: 10/01/2023 17:36:50
+[1mThe data type for the 'longitude' field of a random document is <class 'float'>.[0m
+
+
+Timepoint: 10/01/2023 17:36:50
+[1mThere are 0 documents in the collection, establishments, where the 'RatingValue' field is NOT data type, 'int'.[0m
+
+
+Timepoint: 10/01/2023 17:36:50
+[1mThe data type for the 'RatingValue' field of a random document is <class 'int'>.[0m
+
+
+Timepoint: 10/01/2023 17:36:50
+[1mThe current values for the field, 'RatingValue', for all documents in the Collection, establishments, is [None, 1, 2, 3, 4, 5].[0m
+
+
+Timepoint: 10/01/2023 17:38:08
+Program execution begins...
+
+
+
+Timepoint: 10/01/2023 17:38:09
+[1mHere is a List of the current MongoDB Databases:
+[0m['admin', 'config', 'epa', 'fruits_db', 'local', 'met', 'petsitly_marketing', 'uk_food']
+
+
+Timepoint: 10/01/2023 17:38:09
+[1m
+The MongoDB Database, 'uk_food', is in the List of MongoDB Databases.[0m
+
+
+Timepoint: 10/01/2023 17:38:09
+[1mHere is a List of the current Collections in the MongoDB Database, uk_food:
+[0m['establishments']
+
+
+Timepoint: 10/01/2023 17:38:09
+[1m
+The Collection, 'establishments', is in the MongoDB Database, 'uk_food'.[0m
+
+
+Timepoint: 10/01/2023 17:38:09
+[1mThere are 39,779 documents in the Collection, establishments.[0m
+
+
+Timepoint: 10/01/2023 17:38:10
+[1mThere is 1 document for the restaurant, Penang Flavors, in the Collection, establishments.[0m
+
+
+Timepoint: 10/01/2023 17:38:10
+[1mIn the Penang Flavours's document, the 'BusinessTypeID' is of type, <class 'int'>, and has a value of 1.[0m
+
+
+Timepoint: 10/01/2023 17:38:10
+[1mThere are 994 documents with 'Dover' as their local authority name.[0m
+
+
+Timepoint: 10/01/2023 17:38:10
+[1mAfter the deletion, there are now 0 documents with 'Dover' as their local authority name.[0m
+
+
+Timepoint: 10/01/2023 17:38:10
+[1mAfter the deletion, there are now 38,786 documents in the Collection, establishments.[0m
+
+
+Timepoint: 10/01/2023 17:38:12
+['0', 'Awaiting Inspection', 'AwaitingInspection', 'AwaitingPublication', 'Exempt', 'Pass']
+
+
+Timepoint: 10/01/2023 17:38:13
+[1mThere are 0 documents in the collection, establishments, where the 'latitude' field is NOT data type, 'double'.[0m
+
+
+Timepoint: 10/01/2023 17:38:13
+[1mThe data type for the 'latitude' field of a random document is <class 'float'>.[0m
+
+
+Timepoint: 10/01/2023 17:38:13
+[1mThere are 0 documents in the collection, establishments, where the 'longitude' field is NOT data type, 'double'.[0m
+
+
+Timepoint: 10/01/2023 17:38:13
+[1mThe data type for the 'longitude' field of a random document is <class 'float'>.[0m
+
+
+Timepoint: 10/01/2023 17:38:13
+[1mThere are 0 documents in the collection, establishments, where the 'RatingValue' field is NOT data type, 'int'.[0m
+
+
+Timepoint: 10/01/2023 17:38:13
+[1mThe data type for the 'RatingValue' field of a random document is <class 'int'>.[0m
+
+
+Timepoint: 10/01/2023 17:38:13
+[1mThe current values for the field, 'RatingValue', for all documents in the Collection, establishments, is [None, 1, 2, 3, 4, 5].[0m
+
+
+Timepoint: 10/01/2023 17:39:53
+Program execution begins...
+
+
+
+Timepoint: 10/01/2023 17:39:54
+[1mHere is a List of the current MongoDB Databases:
+[0m['admin', 'config', 'epa', 'fruits_db', 'local', 'met', 'petsitly_marketing', 'uk_food']
+
+
+Timepoint: 10/01/2023 17:39:54
+[1m
+The MongoDB Database, 'uk_food', is in the List of MongoDB Databases.[0m
+
+
+Timepoint: 10/01/2023 17:39:54
+[1mHere is a List of the current Collections in the MongoDB Database, uk_food:
+[0m['establishments']
+
+
+Timepoint: 10/01/2023 17:39:54
+[1m
+The Collection, 'establishments', is in the MongoDB Database, 'uk_food'.[0m
+
+
+Timepoint: 10/01/2023 17:39:54
+[1mThere are 39,779 documents in the Collection, establishments.[0m
+
+
+Timepoint: 10/01/2023 17:39:54
+[1mThere is 1 document for the restaurant, Penang Flavors, in the Collection, establishments.[0m
+
+
+Timepoint: 10/01/2023 17:39:54
+[1mIn the Penang Flavours's document, the 'BusinessTypeID' is of type, <class 'int'>, and has a value of 1.[0m
+
+
+Timepoint: 10/01/2023 17:39:54
+[1mThere are 994 documents with 'Dover' as their local authority name.[0m
+
+
+Timepoint: 10/01/2023 17:39:54
+[1mAfter the deletion, there are now 0 documents with 'Dover' as their local authority name.[0m
+
+
+Timepoint: 10/01/2023 17:39:54
+[1mAfter the deletion, there are now 38,786 documents in the Collection, establishments.[0m
+
+
+Timepoint: 10/01/2023 17:39:57
+['0', 'Awaiting Inspection', 'AwaitingInspection', 'AwaitingPublication', 'Exempt', 'Pass']
+
+
+Timepoint: 10/01/2023 17:39:58
+[1mThere are 0 documents in the collection, establishments, where the 'latitude' field is NOT data type, 'double'.[0m
+
+
+Timepoint: 10/01/2023 17:39:58
+[1mThe data type for the 'latitude' field of a random document is <class 'float'>.[0m
+
+
+Timepoint: 10/01/2023 17:39:58
+[1mThere are 0 documents in the collection, establishments, where the 'longitude' field is NOT data type, 'double'.[0m
+
+
+Timepoint: 10/01/2023 17:39:58
+[1mThe data type for the 'longitude' field of a random document is <class 'float'>.[0m
+
+
+Timepoint: 10/01/2023 17:39:58
+[1mThere are 0 documents in the collection, establishments, where the 'RatingValue' field is NOT data type, 'int'.[0m
+
+
+Timepoint: 10/01/2023 17:39:58
+[1mThe data type for the 'RatingValue' field of a random document is <class 'int'>.[0m
+
+
+Timepoint: 10/01/2023 17:39:58
+[1mThe current values for the field, 'RatingValue', for all documents in the Collection, establishments, is [None, 1, 2, 3, 4, 5].[0m
+
