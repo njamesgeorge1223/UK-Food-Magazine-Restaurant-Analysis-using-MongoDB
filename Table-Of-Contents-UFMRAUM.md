@@ -58,7 +58,7 @@
 >> ### **Worst Hygiene Establishments' Locations Data Set**
 >> ### **Display Worst Hygiene Establishments**
 >> ### **Display Worst Hygiene Establishments' Locations**
-## <br> **2.2 — Which establishments in London have a high rating value greater than or equal to 4 (1-5)?**
+> ## <br> **2.2 — Which establishments in London have a high rating value greater than or equal to 4 (1-5)?**
 >> ### **Number of Establishments from `count_documents`**
 >> ### **Display First Document**
 >> ### **High Rating Value, London Establishments Data Set**
