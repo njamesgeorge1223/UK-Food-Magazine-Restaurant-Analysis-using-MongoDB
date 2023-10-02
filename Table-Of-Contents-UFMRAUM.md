@@ -15,7 +15,7 @@
 > ## <br> **1.6: MongoDB Collection Confirmation**
 > ## <br> **1.7: Establishments Collection Document Review**
 # <br><br> **Section 2: Update the Database**
-## <br> **2.1 — An exciting new halal restaurant just opened in Greenwich, but hasn't been rated yet. The magazine has asked you to include it in your analysis. Add the following restaurant "Penang Flavours" to the database.**
+> ## <br> **2.1 — An exciting new halal restaurant just opened in Greenwich, but hasn't been rated yet. The magazine has asked you to include it in your analysis. Add the following restaurant "Penang Flavours" to the database.**
 >> ### **New Restaurant Dictionary**
 >> ### **Insert New Restaurant Dictionary into MongoDB Collection**
 >> ### **New Restaurant Document Confirmation**
