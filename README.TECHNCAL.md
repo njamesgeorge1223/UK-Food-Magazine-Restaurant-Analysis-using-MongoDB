@@ -121,15 +121,15 @@ Jupyter Notebook, Matplotlib, MongoDB, Numpy, Pandas, PyMongo, Python 3.11.4
 
 |&rarr; [./Images/](./Images/)
 
-  &emsp; |&rarr; [./Images/NoSQLAnalysisFigure211WorstHygieneEstablishments.png](./Images/NoSQLAnalysisFigure211WorstHygieneEstablishments.png)
+  &emsp; |&rarr; [./Images/NoSQLAnalysisFigure211WorstHygieneEstablishments.html](./Images/NoSQLAnalysisFigure211WorstHygieneEstablishments.html)
   
-  &emsp; |&rarr; [./Images/NoSQLAnalysisFigure212WorstHygieneEstablishmentsCloseUp.png](./Images/NoSQLAnalysisFigure212WorstHygieneEstablishmentsCloseUp.png)
+  &emsp; |&rarr; [./Images/NoSQLAnalysisFigure212WorstHygieneEstablishmentsCloseUp.html](./Images/NoSQLAnalysisFigure212WorstHygieneEstablishmentsCloseUp.html)
   
-  &emsp; |&rarr; [./Images/NoSQLAnalysisFigure221HighRatingValueLondon.png](./Images/NoSQLAnalysisFigure221HighRatingValueLondon.png)
+  &emsp; |&rarr; [./Images/NoSQLAnalysisFigure221HighRatingValueLondon.html](./Images/NoSQLAnalysisFigure221HighRatingValueLondon.html)
   
-  &emsp; |&rarr; [./Images/NoSQLAnalysisFigure222HighRatingValueLondonCloseUp.png](./Images/NoSQLAnalysisFigure222HighRatingValueLondonCloseUp.png)
+  &emsp; |&rarr; [./Images/NoSQLAnalysisFigure222HighRatingValueLondonCloseUp.html](./Images/NoSQLAnalysisFigure222HighRatingValueLondonCloseUp.html)
 
-  &emsp; |&rarr; [./Images/NoSQLAnalysisFigure232HighestRatingBestHygieneCloseUp.png](./Images/NoSQLAnalysisFigure232HighestRatingBestHygieneCloseUp.png)
+  &emsp; |&rarr; [./Images/NoSQLAnalysisFigure232HighestRatingBestHygieneCloseUp.html](./Images/NoSQLAnalysisFigure232HighestRatingBestHygieneCloseUp.html)
 
   &emsp; |&rarr; [./Images/NoSQLAnalysisTable21WorstHygieneEstablishments.png](./Images/NoSQLAnalysisTable21WorstHygieneEstablishments.png)
 
@@ -143,13 +143,13 @@ Jupyter Notebook, Matplotlib, MongoDB, Numpy, Pandas, PyMongo, Python 3.11.4
 
 |&rarr; [./Logs/](./Logs/)
 
-  &emsp; |&rarr; [./Logs/20231001NoSQLAnalysisDebug.txt](./Logs/20231001NoSQLAnalysisDebug.txt)
+  &emsp; |&rarr; [./Logs/20231107NoSQLAnalysisDebug.txt](./Logs/20231107NoSQLAnalysisDebug.txt)
 
-  &emsp; |&rarr; [./Logs/20231001NoSQLAnalysisLog.txt](./Logs/20231001NoSQLAnalysisLog.txt)
+  &emsp; |&rarr; [./Logs/20231107NoSQLAnalysisLog.txt](./Logs/20231107NoSQLAnalysisLog.txt)
 
-  &emsp; |&rarr; [./Logs/20231001NoSQLSetupDebug.txt](./Logs/20231001NoSQLSetupDebug.txt)
+  &emsp; |&rarr; [./Logs/20231107NoSQLSetupDebug.txt](./Logs/20231107NoSQLSetupDebug.txt)
 
-  &emsp; |&rarr; [./Logs/20231001NoSQLSetupLog.txt](./Logs/20231001NoSQLSetupLog.txt)
+  &emsp; |&rarr; [./Logs/20231107NoSQLSetupLog.txt](./Logs/20231107NoSQLSetupLog.txt)
 
   &emsp; |&rarr; [./Logs/README.md](./Logs/README.md)
 
